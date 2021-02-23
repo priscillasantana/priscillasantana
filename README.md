@@ -4,7 +4,7 @@
 <p>
   
 ![english](https://img.shields.io/badge/-english-gray) </br>
-Hello, I am in career transition studying to become a front end developer. </br>
+Hello, I am in career transition, studying to become a front end developer. </br>
 I graduated in international relations, but have found my passion in programming. </br>
 My current goal is to improve myself more each day so that I can succeed in the profession.
 </p>
@@ -16,7 +16,7 @@ My current goal is to improve myself more each day so that I can succeed in the 
 <p> 
   
 ![português]( https://img.shields.io/badge/-portugu%C3%AAs-gray) </br>
-Olá, estou em transição de carreira estudando para me tornar uma desenvolvedora front end. </br>
+Olá, estou em transição de carreira, estudando para me tornar uma desenvolvedora front end. </br>
 Me formei em relações internacionais, mas tenho encontrado minha paixão na programação. </br>
 Meu objetivo atual é me aprimorar cada dia mais, para que eu consiga obter sucesso na profissão.
 </p>
