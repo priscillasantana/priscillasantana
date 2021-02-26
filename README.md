@@ -5,7 +5,7 @@
   
 ![english](https://img.shields.io/badge/-english-gray) </br>
 Hello, I am in career transition, studying to become a front end developer. </br>
-I graduated in international relations, but have found my passion in programming. </br>
+I've graduated in international relations, but have found my passion in programming. </br>
 My current goal is to improve myself more each day so that I can succeed in the profession.
 </p>
 
