@@ -4,9 +4,10 @@
 <p>
   
 ![english](https://img.shields.io/badge/-english-gray) </br>
-Hello, I am in career transition, studying to become a front end developer. </br>
-I've graduated in international relations, but have found my passion in programming. </br>
-My current goal is to improve myself more each day so that I can succeed in the profession.
+Hello, I am a front end developer, focused on React, Javascript and Typescript. </br>
+I am working as a web developer and CMS specialist. </br>
+My first graduation was in international relations, but I have found my passion in programming, and today i am in college again studying system development and analysis. </br>
+My current goal is to improve myself more each day so that I can be better in the profession I choose.
 </p>
 
 
@@ -16,9 +17,10 @@ My current goal is to improve myself more each day so that I can succeed in the 
 <p> 
   
 ![português]( https://img.shields.io/badge/-portugu%C3%AAs-gray) </br>
-Olá, estou em transição de carreira, estudando para me tornar uma desenvolvedora front end. </br>
-Me formei em relações internacionais, mas tenho encontrado minha paixão na programação. </br>
-Meu objetivo atual é me aprimorar cada dia mais, para que eu consiga obter sucesso na profissão.
+Olá, eu sou uma desenvolvedora front end com foco em React, Javascript e Typescript. </br>
+Atualmente trabalho como Web Developer e CMS specialist.  </br>
+Minha primeira graduação foi em relações internacionais, mas encontrei a minha paixão na programação, e atualmente estou cursando Análise e Desenvolvimento de Sistemas. </br>
+Meu objetivo atual é me aprimorar cada dia mais, para que eu consiga obter sucesso na profissão que eu escolhi.
 </p>
 
 <h3 align="left">Connect with me:</h3>
