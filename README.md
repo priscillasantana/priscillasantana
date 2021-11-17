@@ -2,7 +2,7 @@
 ![](https://media.giphy.com/media/ku3BFwxbJdIzSgmEm2/giphy.gif) -->
 
 <p>
-Hello, I am a software engineer and front end developer, currently working with React, Javascript and Typescript. </br>
+Hello, I am a software engineer and front end developer, currently working with React, Javascript and Typescript at Telnyx. </br>
 My first graduation was in international relations, but I have found my path in programming, and today i am in college again studying system development and analysis. </br>
 Coding is my passion and my goal is to keep learning to be a better professional each day.
 </p>
