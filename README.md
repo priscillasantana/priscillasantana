@@ -25,10 +25,6 @@ Coding is my passion, and my goal is to keep learning to be a better professiona
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=priscillasantana&theme=blue-green)
 
-[![Visits Badge](https://badges.pufler.dev/visits/priscillasantana/priscillasantana)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/priscillasantana)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/priscillasantana)](https://badges.pufler.dev)
-
 
 
 
