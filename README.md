@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Priscilla Santana</h1>
 
-- 🔭 Currently working on [**Telnyx**](https://telnyx.com/)
+🔭 Currently working on [**Telnyx**](https://telnyx.com/)
 
 
 <p>
